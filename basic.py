@@ -6,7 +6,7 @@ if x == "a":
     b = 2
     c = a+b
     print("{}+{}={}".format(a, b, c))
-elif x== "s":
+elif x == "s":
     a = 20
     b = -3
     c = a-b
